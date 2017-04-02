@@ -1,6 +1,13 @@
+** Восстановить проект **
 ```
 dotnet restore
 dotnet build
+```
+
+** Запустить unit-тесты **
+
+Перейти в проект *.Tests
+```
 dotnet test
 ```
 
