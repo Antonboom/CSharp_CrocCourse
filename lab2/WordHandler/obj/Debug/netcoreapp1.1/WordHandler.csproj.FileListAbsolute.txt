@@ -1,8 +1,0 @@
-/Users/anthony/WordHandler/bin/Debug/netcoreapp1.1/WordHandler.deps.json
-/Users/anthony/WordHandler/bin/Debug/netcoreapp1.1/WordHandler.runtimeconfig.json
-/Users/anthony/WordHandler/bin/Debug/netcoreapp1.1/WordHandler.runtimeconfig.dev.json
-/Users/anthony/WordHandler/bin/Debug/netcoreapp1.1/WordHandler.dll
-/Users/anthony/WordHandler/bin/Debug/netcoreapp1.1/WordHandler.pdb
-/Users/anthony/WordHandler/obj/Debug/netcoreapp1.1/WordHandler.AssemblyInfo.cs
-/Users/anthony/WordHandler/obj/Debug/netcoreapp1.1/WordHandler.dll
-/Users/anthony/WordHandler/obj/Debug/netcoreapp1.1/WordHandler.pdb
