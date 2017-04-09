@@ -6,7 +6,7 @@ namespace Happy
     {  
         private int numberLength = 0;
         private int lastHappyNumber = 0;
-        private bool noHappyNubers = false;
+        private bool noHappyNumbers = false;
 
         /// <summary>  
         /// Конструктор класса  
@@ -25,7 +25,7 @@ namespace Happy
         /// <returns>Например, 12344321 (для длины номера 8) или 0 (для длины номера 1)</returns>  
         public int GetHappyNumber()  
         {  
-            if ((numberLength == 0) || noHappyNubers) {
+            if ((numberLength == 0) || noHappyNumbers) {
                 return 0;
             }
 
@@ -41,8 +41,8 @@ namespace Happy
                 }
             }
             
-            noHappyNubers = true;
-            
+            noHappyNumbers = true;
+
             return 0;
         }
         
